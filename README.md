@@ -8,18 +8,18 @@
 
 | 项目 | 简介 | 技术栈 | 状态 |
 | --- | --- | --- | --- |
-| [manufacturing-geo-audit](https://github.com/HiOne0826/manufacturing-geo-audit) | 面向制造业的多模型 GEO 采样、审计、归档与报告系统 | Python | 活跃 |
-| [external-context-gateway](https://github.com/HiOne0826/external-context-gateway) | 外部网页与数据采集、监控和调用网关 | Python | 活跃 |
-| [mcn-hot-trend](https://github.com/HiOne0826/mcn-hot-trend) | 全网热点监测系统 | Python | 原型 |
-| [douyin-ai-analyzer](https://github.com/HiOne0826/douyin-ai-analyzer) | 抖音与小红书内容分析工具 | Python | 原型 |
-| [employee-separation-copilot](https://github.com/HiOne0826/employee-separation-copilot) | 员工离职协作项目 | Python | 初始化 |
+| [manufacturing-geo-audit](https://github.com/yaoshi-labs/manufacturing-geo-audit) | 面向制造业的多模型 GEO 采样、审计、归档与报告系统 | Python | 活跃 |
+| [external-context-gateway](https://github.com/yaoshi-labs/external-context-gateway) | 外部网页与数据采集、监控和调用网关 | Python | 活跃 |
+| [mcn-hot-trend](https://github.com/yaoshi-labs/mcn-hot-trend) | 全网热点监测系统 | Python | 原型 |
+| [douyin-ai-analyzer](https://github.com/yaoshi-labs/douyin-ai-analyzer) | 抖音与小红书内容分析工具 | Python | 原型 |
+| [employee-separation-copilot](https://github.com/yaoshi-labs/employee-separation-copilot) | 员工离职协作项目 | Python | 初始化 |
 
 ## Agent Skills
 
 | 项目 | 简介 | 技术栈 | 状态 |
 | --- | --- | --- | --- |
-| [illustrator-manual-translator-skill](https://github.com/HiOne0826/illustrator-manual-translator-skill) | Illustrator 多语种说明书翻译、排版与交付校验 | Python | 活跃 |
-| [Wechat-RSS-Skill](https://github.com/HiOne0826/Wechat-RSS-Skill) | 微信公众号 RSS 订阅与 Agent 调用 | TypeScript | 可用 |
+| [illustrator-manual-translator-skill](https://github.com/yaoshi-labs/illustrator-manual-translator-skill) | Illustrator 多语种说明书翻译、排版与交付校验 | Python | 活跃 |
+| [Wechat-RSS-Skill](https://github.com/yaoshi-labs/Wechat-RSS-Skill) | 微信公众号 RSS 订阅与 Agent 调用 | TypeScript | 可用 |
 
 ## 网站与内容
 
@@ -32,8 +32,8 @@
 
 | 项目 | 简介 | 技术栈 | 状态 |
 | --- | --- | --- | --- |
-| [yaoshi-project-lead](https://github.com/HiOne0826/yaoshi-project-lead) | 业务流程与技术实施文档的可追踪管理 | Python | 实验 |
-| [yaoshi-unknown-unknowns](https://github.com/HiOne0826/yaoshi-unknown-unknowns) | 面向决策的未知问题发现与批判方法 | 文档 | 实验 |
+| [yaoshi-project-lead](https://github.com/yaoshi-labs/yaoshi-project-lead) | 业务流程与技术实施文档的可追踪管理 | Python | 实验 |
+| [yaoshi-unknown-unknowns](https://github.com/yaoshi-labs/yaoshi-unknown-unknowns) | 面向决策的未知问题发现与批判方法 | 文档 | 实验 |
 
 ## 开源说明
 
